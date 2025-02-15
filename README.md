@@ -1,3 +1,11 @@
+本项目为buaa计算机学院2024年夏季学期Python程序设计课程大作业，由团队合作完成app的开发。
+
+项目主题：任务管理app
+
+技术栈：前端Pyqt，后端Python
+
+
+
 **上传描述更新！**
 **frontend/backend-(content)-author**
 
